@@ -12,7 +12,7 @@ const PRIVATE_KEY = process.env.PRIVATE_KEY;
 
 module.exports = {
   solidity: {
-    version: '0.6.12',
+    version: '9.7.0',
     settings: {
       optimizer: {
         enabled: true,
